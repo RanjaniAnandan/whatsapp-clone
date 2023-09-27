@@ -4,14 +4,14 @@ import "firebase/compat/firestore";
 import "firebase/compat/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAt3YUtWae4PzAX1sbN6aoypybDdwpVAl8",
-  authDomain: "whatsapp-clone-58605.firebaseapp.com",
-  projectId: "whatsapp-clone-58605",
-  databaseURL: "https://whatsapp-lone-58605.firebaseio.com",
-  storageBucket: "whatsapp-clone-58605.appspot.com",
-  messagingSenderId: "611532941250",
-  appId: "1:611532941250:web:1e032727e9fe178bcb185b",
-  measurementId: "G-PZSNLLN58N",
+  apiKey: "AIzaSyA9vfccYPAY0MLiCoxuL1sS-3RFFpR99fE",
+  authDomain: "whatsapp-clone-ff9e9.firebaseapp.com",
+  projectId: "whatsapp-clone-ff9e9",
+  databaseURL: "https://whatsapp-clone-ff9e9.firebaseio.com",
+  storageBucket: "whatsapp-clone-ff9e9.appspot.com",
+  messagingSenderId: "357119888941",
+  appId: "1:357119888941:web:44d5835576d5fc592b32a4",
+  measurementId: "G-L42P3H0L50",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
